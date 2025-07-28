@@ -32,7 +32,7 @@ I thrive in fast-paced environments, focusing on cloud-native technologies like 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a> &nbsp; &nbsp;
   <a href="https://topmate.io/shivkumarsah" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/topmate/topmate-icon.svg" alt="topmate" height="30" width="40" />
+    <img align="center" src="https://topmate.io/cdn-cgi/image/width=384,quality=90/images/common/topmate-dark.svg" alt="topmate" height="30" width="40" />
   </a>
   </p>
 
@@ -55,11 +55,9 @@ Here are some of the technologies and tools I work with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivkumarsah&show_icons=true&theme=radical&rank_icon=github" alt="Shiv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shivkumars_adobe&show_icons=true&theme=radical&rank_icon=github" alt="Shiv's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkumarsah&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkumars_adobe&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
