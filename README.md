@@ -16,8 +16,6 @@ I am a seasoned DevOps Engineer with over 11 years of hands-on experience in the
 
 💬 Ask me about Kubernetes, OpenShift, Go, gRPC, Python, and CI/CD pipelines.
 
-📫 How to reach me: shiv.sah.dev@gmail.com (or connect on LinkedIn!)
-
 😄 Pronouns: He/Him
 
 🛠️ Languages and Tools
