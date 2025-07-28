@@ -1,68 +1,59 @@
-Hi there, I'm Shiv Kumar Sah 👋
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/shiv-kumar-sah-a4623434/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+# Hi there, I'm Shiv Kumar Sah 👋
+
+<a href="https://linkedin.com/in/shivkumarsah" target="_blank">
+  <img align="right" alt="Shiv's LinkedIn" width="200" src="https://i.imgur.com/83w5mK3.png" />
 </a>
 
-👨‍💻 About Me
-I am a seasoned DevOps Engineer with over 11 years of hands-on experience in the complete software development lifecycle, from coding and development to testing, maintenance, and server configuration. I am passionate about building scalable and resilient systems, with a strong focus on Site Reliability Engineering (SRE), AIOps, and cloud-native technologies.
+I'm a seasoned **DevOps Engineer** at **Adobe**, passionate about building robust and scalable systems. With over 11 years of experience in the tech industry, my expertise lies at the intersection of **DevOps, Site Reliability Engineering (SRE), and Full Stack Development**.
 
-🔭 I’m currently working as a DevOps Engineer at Adobe.
+I thrive in fast-paced environments, focusing on cloud-native technologies like Kubernetes and OpenShift, automating infrastructure, and enhancing system reliability through AIOps.
 
-🌱 I’m currently learning more about AIOps and advanced Kubernetes implementations.
+---
 
-👯 I’m looking to collaborate on open-source DevOps tools and Go projects.
+### 👨‍💻 About Me
 
-🤔 I’m looking for help with scaling distributed systems.
+- 🔭 **I’m currently working as a DevOps Engineer at Adobe**, focusing on Platform Engineering and SRE.
+- 🌱 **I’m deeply involved with:** Kubernetes, OpenShift, Cloud Infrastructure, and CI/CD pipelines.
+- 💡 **I'm passionate about:** Exploring Generative AI, Automation with Ansible, and participating in hackathons.
+- 📈 **My experience includes:**
+  - Leading the deployment of M2M solutions across multiple environments (Production, Staging, QA).
+  - Designing and maintaining web applications, databases, and server configurations.
+  - Full-stack development and consulting for enterprise-level clients.
 
-💬 Ask me about Kubernetes, OpenShift, Go, gRPC, Python, and CI/CD pipelines.
+---
 
-😄 Pronouns: He/Him
+### 📬 Connect with Me
 
-🛠️ Languages and Tools
-Here are some of the technologies I've worked with extensively:
+<p align="left">
+  <a href="https://linkedin.com/in/shivkumarsah" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivkumarsah" height="30" width="40" />
+  </a>
+  </p>
 
-Cloud & DevOps
+---
 
-Backend & Languages
+### 🛠️ My Tech Stack
 
-Databases
+Here are some of the technologies and tools I work with:
 
-Tools & Platforms
+| **Cloud & DevOps** | **Languages** | **Frameworks & Databases** |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="OpenShift" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> |
 
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+---
 
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+### 📊 My GitHub Stats
 
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+*(**Note**: Replace `YOUR_GITHUB_USERNAME` with your username for these stats to show up!)*
 
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>
-
-📊 My GitHub Stats
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight" alt="My GitHub stats" />
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26locale%3Den%26theme%3Dtokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Shiv's GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
