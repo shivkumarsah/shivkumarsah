@@ -47,13 +47,11 @@ Here are some of the technologies and tools I work with:
 
 ### 📊 My GitHub Stats
 
-*(**Note**: Replace `YOUR_GITHUB_USERNAME` with your username for these stats to show up!)*
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Shiv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivkumarsah&show_icons=true&theme=radical&rank_icon=github" alt="Shiv's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkumarsah&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
