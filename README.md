@@ -27,6 +27,12 @@ I thrive in fast-paced environments, focusing on cloud-native technologies like 
 <p align="left">
   <a href="https://linkedin.com/in/shivkumarsah" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivkumarsah" height="30" width="40" />
+  </a> &nbsp; &nbsp;
+  <a href="https://www.youtube.com/shivkumarsah" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+  </a> &nbsp; &nbsp;
+  <a href="https://topmate.io/shivkumarsah" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/topmate/topmate-icon.svg" alt="topmate" height="30" width="40" />
   </a>
   </p>
 
@@ -36,7 +42,7 @@ I thrive in fast-paced environments, focusing on cloud-native technologies like 
 
 Here are some of the technologies and tools I work with:
 
-| **Cloud & DevOps** | **Languages** | **Frameworks & Databases** |
+| **AI/ML, Cloud & DevOps** | **Languages** | **Frameworks & Databases** |
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="OpenShift" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> |
